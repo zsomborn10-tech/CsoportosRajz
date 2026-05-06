@@ -1,3 +1,3 @@
 #Udud_Matyas-lampaizzok
 #Elekes David lampahatlap
-#Nagy Zsombor lampaoszlop
+#Nagy_Zsombor-lampaoszlop
